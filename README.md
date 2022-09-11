@@ -1,7 +1,9 @@
 # FenPie
  Software that allocates time for different projects which adjustes depending on how much you have on that day.
 
-![Logo.png](Images/Logo.png)
+
+<img src="Images/Logo.png" alt="FenPie" style="display: block;margin-left:auto;
+margin-right: auto;" width="300px">
 
 # Future Compatabilities 
 - [ ] Web
