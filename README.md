@@ -12,3 +12,8 @@
 # Future Features
 - Reads google calender to work out how much you have on that day
 - Set timers for each task
+
+# Milestones
+- [x] Initializing Project
+- [ ] Create Coming soon page
+- [ ] Create newsletter sign up for updates
